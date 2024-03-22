@@ -1,0 +1,38 @@
+th.rank, td.rank {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  }
+
+#h2{
+    margin:auto;
+    width: 400px;
+    background: red;
+}
+
+th, td {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 3px 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+td:hover {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  padding: 2px 10px;
+}
+.gold {
+  background-color: gold;
+}
+.silver {
+  background-color: silver;
+}
+.total {
+  background-color: rgb(117, 126, 117);
+  color: black;}
